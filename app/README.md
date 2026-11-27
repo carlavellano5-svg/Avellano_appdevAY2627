@@ -6,3 +6,6 @@ Explain the troubleshooting steps, Gradle build logs, and documentation resource
 
 ## lab1 
 Laboratory Discussion: Discuss what happens to Activity lifecycle states during screen rotation versus pressing the Home button, how Logcat helped verify state order, and what setup or Gradle sync issues you encountered.
+
+## lab2
+Laboratory Discussion: Compare when to use ConstraintLayout, LinearLayout, and RelativeLayout, and explain the difference between explicit and implicit Intents in LabCheck.

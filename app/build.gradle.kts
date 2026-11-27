@@ -9,7 +9,7 @@ android {
     }
     buildFeatures {
         viewBinding = true
-
+    }
     defaultConfig {
         applicationId = "com.example.avellano_appdevay2627"
         minSdk = 25
